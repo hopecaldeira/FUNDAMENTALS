@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(241, 214, 219);
+}
+tr {
+    width: 200px;
+    display: flex;
+}
+
+.color1 {
+    background-color: pink;
+    width: 20px;
+    height: 20px;
+    margin: 0px;
+}
+
+.color2 {
+    background-color: palevioletred;
+    width: 20px;
+    height: 20px;
+    margin: 0px;
+}

@@ -1,0 +1,21 @@
+body {
+    background-color: seagreen;
+}
+tr {
+    width: 200px;
+    display: flex;
+}
+
+.color1 {
+    background-color: red;
+    width: 20px;
+    height: 20px;
+    margin: 0px;
+}
+
+.color2 {
+    background-color: black;
+    width: 20px;
+    height: 20px;
+    margin: 0px;
+}
